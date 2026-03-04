@@ -42,7 +42,7 @@ const ExperienceCard = ({ exp }:ExperienceCardProps) => {
     <div className="flex flex-col md:flex-row gap-10 bg-gray-900 border border-gray-700 rounded-2xl p-8 md:p-12 shadow-lg">
 
       {/* Image Section */}
-      <div className="w-full md:w-[300px] h-[280px] md:h-[320px] flex-shrink-0">
+      <div className="w-full md:w-[420px] h-[280px] md:h-[320px] flex-shrink-0">
         <div className="relative w-full h-full rounded-2xl overflow-hidden border-2 border-white">
           <Image
             src={exp.image}

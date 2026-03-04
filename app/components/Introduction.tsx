@@ -83,7 +83,7 @@ const Introduction = () => {
 
             <div className="relative w-32 h-44 md:w-40 md:h-56 rounded-2xl overflow-hidden border-2 border-white shadow-lg">
               <Image
-                src={assets.pic}
+                src={assets.my}
                 alt="Profile Picture"
                 fill
                 className="object-cover transition-transform duration-500 hover:scale-105"

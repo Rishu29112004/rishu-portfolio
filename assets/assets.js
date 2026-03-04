@@ -42,16 +42,18 @@ import bg from './bg.jpg';
 import code from './code.jpg';
 import chat from './chat.jpg';
 import engineer from './engineer.jpg';
-import cart from './cart.jpeg';
+import cart from './cart.jpg';
 import work from './work.jpg';
 import aws from './aws.png';
 import co from './co.jpg';
+import my from './My pic.png';
 
 export const assets = {
     user_image,
     code_icon,
     chat,
     co,
+    my,
     engineer,
     aws,
     cart,
