@@ -10,7 +10,7 @@ const Navbar = () => {
           Ree
         </p>
 
-        {/* Desktop Button */}
+     
         <a 
           href="https://drive.google.com/file/d/17qZ97uYmNowHmLPEPErOplU2Dzg6KPze/view?usp=drive_link"
           target="_blank"
